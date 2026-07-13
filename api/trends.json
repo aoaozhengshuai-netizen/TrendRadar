@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T19:53:31.033802+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-07-13T23:03:00.261365+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 91,
+      "match_count": 95,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -65,6 +65,17 @@
           "time_info": "[00时46分 ~ 09时51分]"
         },
         {
+          "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
+          "url": "https://news.ifeng.com/c/8uiovLcFI7X",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 23时03分]"
+        },
+        {
           "title": "如何看待 7 月 12 日伊朗再次宣布关闭霍尔木兹海峡？这种封锁会成为常态吗？从长期看，要怎么应对？",
           "url": "https://www.zhihu.com/question/2059566718733776028",
           "source": "知乎",
@@ -105,17 +116,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时51分 ~ 16时50分]"
-        },
-        {
-          "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
-          "url": "https://news.ifeng.com/c/8uiovLcFI7X",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时27分 ~ 19时53分]"
         },
         {
           "title": "伊朗：霍尔木兹海峡目前无法通行",
@@ -172,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "美国中央司令部：昨日中央司令部部队使用多架单向攻击型水面无人机，成功打击了伊朗一处潜艇和舰艇维修设施。三艘“海盗”无人水面舰艇击中了阿巴斯港海军基地的港口，这是美军首次在作战行动中使用海上无人机。昨晚的打击削弱了伊朗持续袭击商业航运的能力。",
+          "url": "https://flash.jin10.com/detail/20260713224718942800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "伊朗称胡齐斯坦省遭美方袭击",
@@ -384,6 +395,18 @@
           "time_info": "[05时40分 ~ 06时39分]"
         },
         {
+          "title": "美军称对伊朗发起新一轮打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 23时03分]"
+        },
+        {
           "title": "伊朗阿巴斯港和格什姆岛沿海地区传出爆炸声",
           "url": "https://flash.jin10.com/detail/20260712235715186800",
           "source": "金十数据",
@@ -509,16 +532,15 @@
           "time_info": "[05时40分 ~ 06时39分]"
         },
         {
-          "title": "美军称对伊朗发起新一轮打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
-          "source": "澎湃新闻",
+          "title": "美国将恢复“针对伊朗的封锁”",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%81%A2%E5%A4%8D%E2%80%9C%E9%92%88%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E5%B0%81%E9%94%81%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            16,
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时50分 ~ 19时53分]"
+          "time_info": "[23时02分 ~ 23时03分]"
         },
         {
           "title": "伊朗外交部谴责美军袭击 称将坚定抵御军事侵略",
@@ -666,7 +688,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -710,7 +732,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -732,9 +754,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "伊朗外交部发言人：要为伤亡的伊朗人复仇",
+          "url": "https://wallstreetcn.com/livenews/3132961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "据CNN：美国中央司令部发言人霍金斯上尉表示，在过去一小时内，伊朗革命卫队向通过霍尔木兹海峡的商船开火。截至目前，美军飞机已成功击落一枚伊朗巡航导弹和一架单向攻击无人机。",
@@ -798,9 +831,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "伊朗：不会允许美国干涉霍尔木兹海峡管理",
+          "url": "https://wallstreetcn.com/livenews/3132955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "霍尔木兹大战升级！伊朗导弹横扫海湾多国，再次宣布关闭海峡",
@@ -820,7 +864,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -908,7 +952,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -930,7 +974,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1007,7 +1051,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1051,7 +1095,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1062,7 +1106,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         }
@@ -1070,7 +1114,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -1084,6 +1128,17 @@
           "time_info": "[00时46分 ~ 07时44分]"
         },
         {
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 23时03分]"
+        },
+        {
           "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
           "url": "https://news.ifeng.com/c/8uhQRko1ti1",
           "source": "凤凰网",
@@ -1093,17 +1148,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时46分 ~ 07时44分]"
-        },
-        {
-          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
-          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 19时53分]"
         },
         {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
@@ -1129,6 +1173,17 @@
           "time_info": "16时50分"
         },
         {
+          "title": "特朗普称美国将恢复“针对伊朗的封锁”",
+          "url": "https://wallstreetcn.com/livenews/3132969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
           "url": "https://flash.jin10.com/detail/20260713021538403800",
           "source": "金十数据",
@@ -1149,8 +1204,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 19时53分]"
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 23时03分]"
         },
         {
           "title": "特朗普命令全国降半旗",
@@ -1210,6 +1265,28 @@
           "time_info": "16时50分"
         },
         {
+          "title": "特朗普：美国将对通过霍尔木兹海峡的货物收取20%的“费用补偿”",
+          "url": "https://wallstreetcn.com/livenews/3132965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "美国总统特朗普：建议格雷厄姆的姐妹担任临时参议员。",
+          "url": "https://flash.jin10.com/detail/20260713224439135800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
           "title": "一场国运级“豪赌”！伊朗拿霍尔木兹海峡跟特朗普死磕",
           "url": "https://flash.jin10.com/detail/20260713163618119800",
           "source": "金十数据",
@@ -1230,13 +1307,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "美、布两油短线持续走高，现分别报74.71美元/桶和79.5美元/桶。消息面上，特朗普宣布恢复对伊朗封锁。",
+          "url": "https://flash.jin10.com/detail/20260713222044730800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "现货黄金短线走低，回落至4020美元/盎司下方，日内跌2.50%。消息面上，特朗普宣布恢复对伊朗封锁。",
+          "url": "https://flash.jin10.com/detail/20260713221733697800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "特朗普：即刻起恢复封锁伊朗 对货物运输收取20%费用",
+          "url": "https://flash.jin10.com/detail/20260713221707911800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "AI恐慌叠加中东局势升温，美股指涨跌互现，存储芯片股普跌，SK海力士跌8%，油涨金跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        },
         {
           "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
           "url": "https://wallstreetcn.com/articles/3776754",
@@ -1250,6 +1371,17 @@
           "time_info": "[16时50分 ~ 19时53分]"
         },
         {
+          "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
+          "url": "https://www.cls.cn/detail/2424724",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 23时03分]"
+        },
+        {
           "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
           "url": "https://wallstreetcn.com/livenews/3132438",
           "source": "华尔街见闻-快讯",
@@ -1260,6 +1392,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时44分]"
+        },
+        {
+          "title": "美股半导体大跌！闪迪跌超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%A4%A7%E8%B7%8C%EF%BC%81%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
         },
         {
           "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
@@ -1284,15 +1427,26 @@
           "time_info": "16时50分"
         },
         {
-          "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
-          "url": "https://www.cls.cn/detail/2424724",
-          "source": "财联社热门",
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨超2%，日常消费品ETF涨近1%，半导体ETF跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3132944",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时53分"
+          "time_info": "23时03分"
+        },
+        {
+          "title": "美股盘初：纳指跌0.7%，存储芯片股普跌，SK海力士跌约8%",
+          "url": "https://wallstreetcn.com/livenews/3132940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         }
       ]
     },
