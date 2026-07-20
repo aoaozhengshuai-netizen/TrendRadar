@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T10:02:20.230210+08:00",
-  "total_titles_processed": 782,
+  "generated_at": "2026-07-20T14:02:28.146867+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 60,
       "titles": [
         {
           "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
@@ -37,11 +37,12 @@
           "ranks": [
             13,
             14,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时50分 ~ 10时02分]"
+          "appearance_count": 9,
+          "time_info": "[01时50分 ~ 14时02分]"
         },
         {
           "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
@@ -56,6 +57,29 @@
           "time_info": "[01时50分 ~ 07时49分]"
         },
         {
+          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
+          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时02分]"
+        },
+        {
+          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
+          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "伊朗塔斯尼姆通讯社：伊朗西南部的马赫沙赫尔港（Bandar Mahshahr）和伊玛目霍梅尼港（Bandar Imam Khomeini）传出了数声爆炸巨响。",
           "url": "https://flash.jin10.com/detail/20260720073447211800",
           "source": "金十数据",
@@ -65,17 +89,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
-        },
-        {
-          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
-          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
         },
         {
           "title": "科威特军方：科威特防空部队目前正应对敌方无人机的攻击。此次攻击源于伊朗的敌对行为。",
@@ -106,7 +119,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -128,9 +141,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
+          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "美国中央司令部开始对伊朗进行新一轮打击，已于美国东部时间晚上7点开始对伊朗进行空袭。",
@@ -513,15 +537,37 @@
           "time_info": "[01时50分 ~ 02时52分]"
         },
         {
+          "title": "伊朗发布公告：摧毁约旦20个美军藏身处，打死数十人",
+          "url": "https://news.ifeng.com/c/8uuPkftr2M2",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "据伊通社（IRNA）：伊朗西北部城市大不里士发生了三起爆炸，但当局尚未确认爆炸的确切地点或来源。",
           "url": "https://flash.jin10.com/detail/20260720094755523800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：在巴林多个地区，尤其是首都麦纳麦，传出连续爆炸的声音，居民们报告称感受到强烈的震动。",
+          "url": "https://flash.jin10.com/detail/20260720133654675800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "美军导弹打击伊朗石油重镇",
@@ -530,7 +576,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -552,7 +598,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -563,7 +609,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -574,7 +620,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -585,9 +631,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "伊朗称打死数十名美军人员",
+          "url": "https://www.toutiao.com/trending/7664426833449848347/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗海军防空系统在南部拦截并摧毁了一架敌方的“卢卡斯”无人机。",
+          "url": "https://flash.jin10.com/detail/20260720133000496800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "美国国务卿鲁比奥：美国仍对通过外交途径解决伊朗问题持开放态度。",
@@ -596,7 +664,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -629,7 +697,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -640,7 +708,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         }
@@ -648,7 +716,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
@@ -684,6 +752,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时42分]"
+        },
+        {
+          "title": "特朗普：痛击伊朗，为身亡美军报仇",
+          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时02分]"
         },
         {
           "title": "特朗普：美国将立即再次申办世界杯 决赛看好阿根廷",
@@ -846,17 +926,6 @@
           "time_info": "[04时03分 ~ 06时42分]"
         },
         {
-          "title": "特朗普：痛击伊朗，为身亡美军报仇",
-          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
           "title": "两天三名美军死亡！美伊冲突失控风险骤升，特朗普迎来关键考验",
           "url": "https://flash.jin10.com/detail/20260720065512528800",
           "source": "金十数据",
@@ -866,6 +935,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "美国总统特朗普将大力神杯颁给西班牙队。",
@@ -885,7 +965,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -896,7 +976,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         }
@@ -953,17 +1033,18 @@
           "url": "https://wallstreetcn.com/articles/3777171",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时02分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
@@ -978,13 +1059,35 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时50分 ~ 07时49分]"
+        },
+        {
+          "title": "OpenAI称Kimi开源是减速主义",
+          "url": "https://s.weibo.com/weibo?q=OpenAI%E7%A7%B0Kimi%E5%BC%80%E6%BA%90%E6%98%AF%E5%87%8F%E9%80%9F%E4%B8%BB%E4%B9%89&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
+          "url": "https://www.cls.cn/detail/2430704",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
         {
           "title": "美股股指期货周一基本平开。",
           "url": "https://flash.jin10.com/detail/20260720060012850800",
