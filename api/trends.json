@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T22:20:04.724596+08:00",
-  "total_titles_processed": 1688,
+  "generated_at": "2026-08-17T23:17:33.117728+08:00",
+  "total_titles_processed": 1775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
@@ -55,8 +55,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时27分 ~ 22时20分]"
+          "appearance_count": 13,
+          "time_info": "[13时27分 ~ 23时17分]"
         },
         {
           "title": "伊朗三大权力机构负责人举行会晤",
@@ -70,6 +70,17 @@
           "time_info": "[02时15分 ~ 06时12分]"
         },
         {
+          "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
+          "url": "https://news.ifeng.com/c/8vfLF9nDBak",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时17分]"
+        },
+        {
           "title": "伊朗称霍尔木兹海峡是结束冲突的筹码。（法尔斯通讯社）",
           "url": "https://wallstreetcn.com/livenews/3150079",
           "source": "华尔街见闻-快讯",
@@ -81,17 +92,6 @@
           "time_info": "[02时16分 ~ 06时12分]"
         },
         {
-          "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
-          "url": "https://news.ifeng.com/c/8vfLF9nDBak",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
-        },
-        {
           "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
           "url": "https://wallstreetcn.com/articles/3779592",
           "source": "华尔街见闻",
@@ -100,8 +100,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时23分 ~ 22时20分]"
+          "appearance_count": 4,
+          "time_info": "[20时23分 ~ 23时17分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：美国再次派遣间谍气球飞越伊拉克埃尔比勒上空。",
+          "url": "https://flash.jin10.com/detail/20260817231127618800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "伊朗：美军不得进入霍尔木兹海峡",
@@ -279,6 +290,17 @@
           "time_info": "19时18分"
         },
         {
+          "title": "伊朗官员：已为美国履行谅解备忘录设定最后期限",
+          "url": "https://wallstreetcn.com/livenews/3150580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "伊朗第一副总统：物价高涨已达到令人不安的程度，敌人的策略就是利用这一点。",
           "url": "https://flash.jin10.com/detail/20260817010920231800",
           "source": "金十数据",
@@ -296,7 +318,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -310,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "伊朗称政策转向全面进攻，宇树科技上市时间确定",
+          "url": "https://flash.jin10.com/detail/20260817225828181800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "伊朗：不要拿霍尔木兹海峡开玩笑",
@@ -356,6 +389,28 @@
           "time_info": "19时18分"
         },
         {
+          "title": "据伊朗学生通讯社：沙特使用炮火袭击了位于也门萨达省边境地区拉齐赫市的阿尔舒瓦尔克（Al-Shawarq）地区村庄。",
+          "url": "https://flash.jin10.com/detail/20260817225427186800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "据伊朗学生通讯社：沙特阿拉伯袭击也门边境地区 。",
+          "url": "https://flash.jin10.com/detail/20260817225338494800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "伊朗总统：伊美谅解备忘录“维护尊严、展现实力”",
           "url": "https://wallstreetcn.com/livenews/3150110",
           "source": "华尔街见闻-快讯",
@@ -384,7 +439,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -505,7 +560,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -516,7 +571,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -568,7 +623,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -580,8 +635,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时39分 ~ 22时20分]"
+          "appearance_count": 16,
+          "time_info": "[08时39分 ~ 23时17分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -654,6 +709,17 @@
           "time_info": "[11时42分 ~ 14时34分]"
         },
         {
+          "title": "特朗普要求伊朗举白旗投降",
+          "url": "https://news.ifeng.com/c/8vfb7aoIQAb",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时17分]"
+        },
+        {
           "title": "沙土巴3国签署共同防务协议，特朗普发声",
           "url": "https://news.ifeng.com/c/8veP1BeKo8D",
           "source": "凤凰网",
@@ -663,17 +729,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时39分 ~ 08时40分]"
-        },
-        {
-          "title": "特朗普要求伊朗举白旗投降",
-          "url": "https://news.ifeng.com/c/8vfb7aoIQAb",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
         },
         {
           "title": "特朗普：我和金正恩关系好，将大幅削减美韩军演规模",
@@ -718,6 +773,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "伊朗战事拖累选情，特朗普被曝拨款支持共和党候选人",
+          "url": "https://wallstreetcn.com/livenews/3150585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美国总统特朗普：我对美国很久以前就同意与韩国进行联合军事演习这一事实感到不满。我已指示战争部长赫格塞思大幅减少联合军事演习。",
@@ -778,6 +844,18 @@
           "time_info": "[19时18分 ~ 20时23分]"
         },
         {
+          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
+          "url": "https://www.cls.cn/detail/2456389",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时17分]"
+        },
+        {
           "title": "特朗普为何要求航母改回蒸汽弹射",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E8%A6%81%E6%B1%82%E8%88%AA%E6%AF%8D%E6%94%B9%E5%9B%9E%E8%92%B8%E6%B1%BD%E5%BC%B9%E5%B0%84",
           "source": "bilibili 热搜",
@@ -790,6 +868,17 @@
           "time_info": "[05时12分 ~ 06时12分]"
         },
         {
+          "title": "释疑丨扒开新型美式政商关系：特朗普到哪儿，权贵们的房子就买到哪儿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33797232",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时17分]"
+        },
+        {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
           "url": "https://wallstreetcn.com/livenews/3150053",
           "source": "华尔街见闻-快讯",
@@ -799,17 +888,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时16分 ~ 06时12分]"
-        },
-        {
-          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
-          "url": "https://www.cls.cn/detail/2456389",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
         },
         {
           "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
@@ -846,17 +924,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时12分]"
-        },
-        {
-          "title": "释疑丨扒开新型美式政商关系：特朗普到哪儿，权贵们的房子就买到哪儿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33797232",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
         },
         {
           "title": "特朗普会让美航母全面退化吗",
@@ -931,7 +998,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -953,7 +1020,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -964,7 +1031,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -997,9 +1064,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
+        },
+        {
+          "title": "以色列总统：今天在耶路撒冷总统府会见了美国特使库什纳、“和平委员会”加沙高级代表姆拉德诺夫以及他们的团队。他们正根据特朗普总统提出的20点计划推动加沙下一阶段的落实工作。我强调，下一阶段必须确保以色列国及其公民的安全，并为该地区所有民族带来稳定以及更加美好的未来。",
+          "url": "https://flash.jin10.com/detail/20260817223608155800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "据阿拉比亚电视台：特朗普高级顾问库什纳与加沙和平委员会的会晤已结束。",
@@ -1082,18 +1160,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2456385",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时17分]"
         },
         {
           "title": "Snap美股盘前跌幅扩大至逾15%。",
@@ -1114,7 +1193,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1125,9 +1204,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
+        },
+        {
+          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨超1%，全球科技股指数ETF涨近1%，日常消费品ETF跌近1%。",
@@ -1136,7 +1226,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1147,9 +1237,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
+        },
+        {
+          "title": "美股存储板块进一步扩大涨幅，SK海力士ADR涨6.5%，美光科技涨5.7%，闪迪股价涨10.5%。",
+          "url": "https://wallstreetcn.com/livenews/3150574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美股盘初：纳指涨0.2%，存储芯片股普涨",
@@ -1158,7 +1259,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1191,7 +1292,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         }
@@ -1213,8 +1314,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时27分 ~ 22时20分]"
+          "appearance_count": 13,
+          "time_info": "[13时27分 ~ 23时17分]"
         },
         {
           "title": "DeepSeek正式涨价",
@@ -1313,7 +1414,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -1390,13 +1491,24 @@
           "time_info": "[14时34分 ~ 16时32分]"
         },
         {
+          "title": "市场消息：美国金融服务公司Synchrony宣布与OpenAI达成企业合作协议，Synchrony将部署GPT-5.6 Sol、Terra和Luna模型，还将推出ChatGPT插件。",
+          "url": "https://flash.jin10.com/detail/20260817230059912800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "英伟达：OpenAI已承诺到2030年大规模部署英伟达AI基础设施，现有及计划中的部署规模约为12吉瓦",
           "url": "https://wallstreetcn.com/livenews/3150525",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1407,9 +1519,63 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
+          "url": "https://wallstreetcn.com/articles/3779560",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[13时27分 ~ 23时17分]"
+        },
+        {
+          "title": "李大霄解读美债收益率",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 13时28分]"
+        },
+        {
+          "title": "汇丰：美联储缩减持仓将使美债只能依赖价格敏感型买家",
+          "url": "https://wallstreetcn.com/livenews/3150581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "20年期美债将于本周三拍卖，长端压力是否会升级？",
+          "url": "https://flash.jin10.com/detail/20260817135730731800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         }
       ]
     },
@@ -1457,51 +1623,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
-          "url": "https://wallstreetcn.com/articles/3779560",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时27分 ~ 22时20分]"
-        },
-        {
-          "title": "李大霄解读美债收益率",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 13时28分]"
-        },
-        {
-          "title": "20年期美债将于本周三拍卖，长端压力是否会升级？",
-          "url": "https://flash.jin10.com/detail/20260817135730731800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "9月按兵不动成主流，本周金价线索藏在美联储细节中",
@@ -1525,6 +1648,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时27分 ~ 14时34分]"
+        },
+        {
+          "title": "金价回调半年抛压基本释放",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%B0%83%E5%8D%8A%E5%B9%B4%E6%8A%9B%E5%8E%8B%E5%9F%BA%E6%9C%AC%E9%87%8A%E6%94%BE%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     },
